@@ -24,7 +24,7 @@ IS
         CLOSE c_operation;
 
         RETURN r_obop;
-    END;
+    END;acascascasc
 
     ------------------------------------------------------------------------------------------------------------------------
     FUNCTION exist_operation (
