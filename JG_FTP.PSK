@@ -4,7 +4,7 @@ AS
     TYPE t_string_table IS TABLE OF VARCHAR2 (32767);
 
     ------------------------------------------------------------------------------------------------------------------------
-    FUNCTION login (p_host      IN VARCHAR2,
+    FUNCTION login (p_host      IN VARCHAR2DUPA,
                     p_port      IN VARCHAR2,
                     p_user      IN VARCHAR2,
                     p_pass      IN VARCHAR2,
